@@ -21,7 +21,9 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está deshabilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
+            "texto1": "_*< _*☁️ ANTI-PRIVADO ☁️*_
+            
+            *[ ❗ ] Este es un bot para grupos de WhatsApp. 📲 Cualquier cosa, comunícate con mi dueño  📞 +527421160415* />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2350,7 +2352,7 @@
         "gc_tagall": {
             "texto1": [
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*⺀𝙸 𝙽 𝚅 𝙾 𝙲 𝙰 𝙽 𝙳 𝙾 - 𝙶 𝚁 𝚄 𝙿 𝙾⺀*\n\n❏",
+                "𝗔𝗖𝗧𝗜𝗩𝗘𝗡𝗦𝗘 𝗟𝗘𝗦 𝗛𝗔𝗕𝗟𝗔 𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢 𝗫 👽\n\n❏",
                 "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
@@ -2904,34 +2906,33 @@
         "menu_menu": {
             "texto1": [
                 "𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢 𝗫",
-                "▢ *Hola,*",
+               
                 "_*< TUS ESTADÍSTICAS />*_",
-                "▢ *Nivel:* ",
-                "▢ *Experiencia:* ",
-                "▢ *Rango:* ",
-                "▢ *Diamantes:* ",
-                "▢ *MysticCoins:* ",
-                "▢ *Tokens:* ",
-                "▢ *Premium:* ",
-                " _*< LISTA DE MENUS />*_",
-                "_*< SOBRE EL BOT />*_",
-                "_*< SUB-BOTS />*_",
-                "_*< JUEGOS />*_",
-                " _*< ACT./DESACT. FUNC. />*_",
-                " _*< DESCARGAS />*_",
-                " _*< BUSCADORES />*_",
-                " _*< GRUPOS />*_",
-                "_*< CONVERTIDORES />*_",
-                " _*< EFECTOS & LOGOS />*_",
-                " _*< FRASES & TEXTOS />*_",
-                " _*< ALEATORIO />*_",
-                " _*< EFECTOS P. AUDIOS />*_",
+                "▢ *Experiencia:0* ",
+                "▢ *Rango:32998* ",
+                "▢ *Diamantes:Guerrero V* ",
+                "▢ *Coins:0* ",
+                "▢ *Tokens:15* ",
+                "▢ *Premium:12* ",
+                " _*< ☁️LISTA DE MENUS☁️ />*_",
+                "_*< ☁️SOBRE EL BOT☁️ />*_",
+                "_*< ☁️SUB-BOTS☁️ />*_",
+                "_*< ☁️JUEGOS☁️ />*_",
+                " _*< ☁️ACT./DESACT. FUNC.☁️ />*_",
+                " _*< ☁️DESCARGAS☁️ />*_",
+                " _*< ☁️BUSCADORES☁️ />*_",
+                " _*< ☁️GRUPOS☁️ />*_",
+                "_*< ☁️CONVERTIDORES☁️ />*_",
+                " _*< ☁️EFECTOS & LOGOS☁️ />*_",
+                " _*< ☁️FRASES & TEXTOS☁️ />*_",
+                " _*< ☁️ALEATORIO☁️ />*_",
+                " _*< ☁️EFECTOS P. AUDIOS☁️ />*_",
                 "*- Responde a un audio o nota de voz.*",
-                "_*< CHAT ANÓNIMO />*_",
-                "_*< HERRAMIENTAS />*_",
-                " _*< ECONOMÍA />*_",
-                " _*< STICKERS />*_",
-                "_*< PROPIETARIO Y MODS. />*_",
+                "_*< ☁️CHAT ANÓNIMO☁️ />*_",
+                "_*< ☁️HERRAMIENTAS☁️ />*_",
+                " _*< ☁️ECONOMÍA☁️ />*_",
+                " _*< ☁️STICKERS☁️ />*_",
+                "_*< ☁️PROPIETARIO Y MODS.☁️ />*_",
                 "*[ ℹ️ ] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*",
                 "*<opcion> <tiempo>*_",
                 "(sin prefijo)",

@@ -21,8 +21,10 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Este recurso está desabilitado porque o recurso* _restrict_ *está habilitado.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] A função antiprivada está habilitada, portanto você será bloqueado.*"
-        },
+            "texto1": "_*< _*☁️ ANTI-PRIVADO ☁️*_
+            
+            *[ ❗ ] Este es un bot para grupos de WhatsApp. 📲 Cualquier cosa, comunícate con mi dueño  📞 +527421160415 />*_\n\n*[ ℹ️ ] A função antiprivada está habilitada, portanto você será bloqueado.*"
+        }
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
             "texto1_1": " envie a palavra ",
